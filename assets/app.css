@@ -23,7 +23,7 @@ h2 {
 }
 .photo{
   float:right;
-  padding-bottom: 200px;
+  margin-bottom:
 }
 .info{
   float: left;
@@ -31,8 +31,15 @@ h2 {
 .enc{
   padding-left: 300px;
   background-color: lightblue;
+  font-family: 'ZCOOL XiaoWei', serif;
 
 }
 .id-ci{
   float: none;
+}
+strong{
+  font-family: 'Poppins', sans-serif;
+}
+p{
+  font-family: 'Poppins', sans-serif;
 }
