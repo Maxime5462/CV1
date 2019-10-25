@@ -4,9 +4,12 @@
 }
 h1 {
   text-align: center;
+  color: #3475A1;
+  font-family: 'Modak', cursive;
+  font-size: 90px;
 }
 h2 {
-  color: blue;
+  color: white;
 }
 #id-form{
   margin-right: 310px;
@@ -27,15 +30,21 @@ h2 {
 }
 .info{
   float: left;
+  background-color: #3475A1;
+  border-radius: 10px;
+  padding: 10px;
+  color : white;
+  font-family: 'ZCOOL XiaoWei', serif;
 }
 .enc{
   padding-left: 300px;
-  background-color: lightblue;
+  background-color: #3475A1;;
   font-family: 'ZCOOL XiaoWei', serif;
 
 }
-.id-ci{
-  float: none;
+#id-ci{
+  text-align: left;
+  padding-left: 400px;
 }
 strong{
   font-family: 'Poppins', sans-serif;
