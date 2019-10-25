@@ -16,13 +16,23 @@ h2 {
 }
 #id-ae{
   margin-right: 310px;
+  te
 }
 .page-header{
   height:250px;
 }
 .photo{
   float:right;
+  padding-bottom: 200px;
 }
 .info{
   float: left;
+}
+.enc{
+  padding-left: 300px;
+  background-color: lightblue;
+
+}
+.id-ci{
+  float: none;
 }
