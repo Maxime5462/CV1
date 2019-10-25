@@ -1,0 +1,19 @@
+.sec-gauche{
+  float : left;
+  margin-right: 150px;
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  color: blue;
+}
+#id-form{
+  margin-right: 310px;
+}
+#id-langues{
+  margin-right: 280px;
+}
+#id-ae{
+  margin-right: 310px;
+}
