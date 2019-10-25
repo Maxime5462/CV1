@@ -17,3 +17,12 @@ h2 {
 #id-ae{
   margin-right: 310px;
 }
+.page-header{
+  height:250px;
+}
+.photo{
+  float:right;
+}
+.info{
+  float: left;
+}
