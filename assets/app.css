@@ -80,4 +80,10 @@ background-image:url(images/developpeur.jpeg);
     text-align: left;
     padding-left: 335px;
   }
+  h1 {
+    text-align: center;
+    color: #3475A1;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 3rem;
+  }
 }
