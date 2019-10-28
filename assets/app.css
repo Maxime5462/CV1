@@ -19,14 +19,13 @@ h2 {
 }
 #id-ae{
   margin-right: 310px;
-  te
 }
 .page-header{
   height:250px;
 }
 .photo{
   float:right;
-  margin-bottom:
+  margin-bottom:2rem;
 }
 .info{
   float: left;
@@ -37,7 +36,7 @@ h2 {
   font-family: 'ZCOOL XiaoWei', serif;
 }
 .enc{
-    background-color: #3475A1;;
+  background-color: #3475A1;;
   font-family: 'ZCOOL XiaoWei', serif;
   text-align: center;
 
@@ -52,6 +51,33 @@ strong{
 p{
   font-family: 'Poppins', sans-serif;
 }
-body {
-background-image:url(assets/images/developpeur.jpeg);
+/*body{
+background-size: contain;
+color:black;
+background-color:white;
+background-image:url(images/developpeur.jpeg);
+}*/
+@media (max-width: 980px) {
+  .sec-gauche {
+    font-size: 0.5rem;
+  }
+  .sec-droite {
+    font-size: 0.5rem;
+  }
+  #id-form{
+    margin-right: 10px;
+  }
+  .sec-gauche{
+    margin-right: 210px;
+  }
+  #id-form{
+    margin-right: 280px;
+  }
+  #id-ae{
+    margin-right: 295px;
+  }
+  #id-ci{
+    text-align: left;
+    padding-left: 335px;
+  }
 }
