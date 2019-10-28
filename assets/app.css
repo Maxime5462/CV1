@@ -87,3 +87,13 @@ background-image:url(images/developpeur.jpeg);
     font-size: 3rem;
   }
 }
+
+@media (max-width: 577px) {
+  h1{
+    font-size: 2rem;
+  }
+
+  #id-form{
+    margin-right: 20px;
+  }
+}
